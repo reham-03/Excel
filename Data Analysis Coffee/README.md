@@ -16,36 +16,47 @@ The dashboard provides clear insights into item popularity, order volume by day 
 
 Objectives
  • Analyze café sales and order volume
+ 
  • Identify the most popular coffee items
+ 
  • Understand customer payment preferences
+ 
  • Track monthly and daily order patterns
+ 
  • Evaluate performance by work shift (morning, afternoon, evening)
 
 Key Insights & Results
 
 Overall Performance
  • Total Sales: 42,627.58
+ 
  • Total Orders: 1,313
+ 
  • Total Items: 8
 
 Product Insights
  • Top-selling items include American Milk and Caramel Latte.
+ 
  • Least ordered items include Hot Espresso and Cocoa.
 
 Customer Behavior
  • Card payments: 93%
+ 
  • Cash payments: 7%
 
 Time-Based Trends
  • Busiest day: Tuesday (206 orders)
+ 
  • Strong activity: Saturday, Friday, and Thursday
 
 Monthly Trends
  • Peak month: May (267 orders)
+ 
  • Lowest month: August (180 orders)
 
 Shift Insights
  • Morning shift is the busiest (510 orders).
+ 
  • Evening shows lower but steady activity.
 
  Conclusion
