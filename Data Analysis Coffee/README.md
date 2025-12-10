@@ -1,8 +1,8 @@
-Costa Caoffee – Sales & Orders Dashboard
+Costa Cafe – Sales & Orders Dashboard
 
 Project Overview
 
-This project analyzes sales performance and customer behavior for Costa Café using Excel for data cleaning, processing, and dashboard creation.
+This project analyzes sales performance and customer behavior for Costa Cafe using Excel for data cleaning, processing, and dashboard creation.
 The goal is to understand sales trends, popular items, peak order times, and overall customer behavior to support better business decisions.
 
 Problem Statement
@@ -11,7 +11,7 @@ Small cafés often have raw sales data but struggle to convert it into meaningfu
 
 Solution
 
-I designed a complete Excel dashboard that cleans, organizes, and visualizes the café’s sales data.
+I designed a complete Excel dashboard that cleans, organizes, and visualizes the cafe’s sales data.
 The dashboard provides clear insights into item popularity, order volume by day and month, payment method trends, and operational performance.
 
 Objectives
@@ -50,7 +50,7 @@ Shift Insights
 
  Conclusion
 
-The Excel dashboard provides valuable insights into Costa Café’s performance, helping identify customer preferences, high-demand periods, and top-selling items.
+The Excel dashboard provides valuable insights into Costa Cafe’s performance, helping identify customer preferences, high-demand periods, and top-selling items.
 This supports better inventory planning, staffing decisions, and marketing strategies.
 
 Tools Used
